@@ -1,2 +1,2 @@
 # Flippy
-this is our flashcard app
+This is our flashcard app
